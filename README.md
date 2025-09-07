@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Kester 👋  
 
-<!--
-**Kes-Projects/Kes-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT Professional | Help Desk | Cybersecurity Enthusiast  
 
-Here are some ideas to get you started:
+I’m passionate about technology, troubleshooting, and security.  
+Currently building hands-on labs in **Active Directory, pfSense firewalls, and SIEM tools like Wazuh**.  
+My goal is to launch my career in **Help Desk** or **Entry-Level Cybersecurity** while continuously learning and growing.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Tools  
+
+- **Operating Systems:** Windows Server, Windows 11, Ubuntu Server/Desktop, Kali Linux  
+- **Directory Services:** Active Directory (Users, Groups, OUs, GPOs, Delegation)  
+- **Networking:** pfSense Firewall, DNS, DHCP, NAT, VLANs  
+- **Security Monitoring:** Wazuh SIEM, Sysmon, Event Logs  
+- **Help Desk Fundamentals:** Troubleshooting hardware/software, account management, printer & network support  
+- **Scripting:** PowerShell (automation), Bash (Linux management)  
+
+---
+
+## Featured Projects  
+
+- [**Active Directory Lab**](https://github.com/Kes-Projects/Active-Directory-Lab)  
+  Configured a Windows Server Domain Controller, created OUs, delegated permissions, and joined client machines.  
+
+- [**Cybersecurity Lab**](https://github.com/Kes-Projects/cybersecurity-lab)  
+  Installed and configured Wazuh Manager on Ubuntu. Deployed Wazuh Agents on Windows & Linux hosts for monitoring logs, attacks, and events.  
+
+---
+
+## Career Goals  
+
+I’m seeking an **entry-level Help Desk** or **Cybersecurity Analyst** role where I can:  
+- Apply troubleshooting and customer service skills  
+- Gain real-world IT and security experience  
+- Continue building toward advanced system administration and security operations  
+
+---
+
+## Connect With Me  
+
+- **Email:** kbascillo@hotmail.com  
+
+---
